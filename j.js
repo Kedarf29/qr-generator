@@ -1,0 +1,2 @@
+alert(" bulaaa");
+prompt("puchhi");
